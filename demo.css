@@ -1,0 +1,52 @@
+header {
+    color: #fde400;
+    background-color: #00b7ff;
+    text-align: center;
+    font-size: 50px;
+    
+  }
+  
+  h2 {
+    background-color: #00b7ff;
+    color: #444443;
+    padding: 5px;
+    width: 30%;
+  }
+  
+  h3 {
+    background-color: #fde400;
+    text-align: center;
+    padding: 5px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 25spx 0;
+    border: 1px;
+    padding: 5px;
+  }
+  
+  th {
+    background-color: #00b7ff;
+    border: 1px solid #00115a;
+    text-align: center;
+    padding: 5px;
+  }
+  td {
+    border: 1px solid #00115a;
+    text-align: left;
+    padding: 5px;
+    background-color: #f5f5dca9;
+  }
+  
+  .bio,
+  .math,
+  .phy,
+  .eng,
+  .chem {
+    background-color: #a7f7f7;
+  }
+  tr:nth-child(even) {
+    background-color: #b43d3d6c;
+  }
+  
